@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
+title: Hello World
+date: 2020-03-23T03:04:10.000Z
+description: 'Ready to rock my new agency in 3... 2... 1... '
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - hello
+  - agency
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
